@@ -1,0 +1,4 @@
+0 band
+1 metamyelocyte
+2 myelocyte
+4 segmented
